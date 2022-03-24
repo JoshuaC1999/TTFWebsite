@@ -1,0 +1,5 @@
+- Update index.html to include necessary elements.
+- Create styles in main.css.
+- Create a back-end server and write the code for the back-end.
+- Create front-end code in main.js and link this to the back-end.
+- Transfer the files to TTF web server (http://www.talontextilefasteners.com.au/), replacing the old ones.
